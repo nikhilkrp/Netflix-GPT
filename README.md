@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="./public/preview.png" alt="Netflix GPT Preview" width="800"/>
+  <img src="./public/Netflix.png" alt="Netflix GPT Preview" width="800"/>
 </p>
 
 ---
