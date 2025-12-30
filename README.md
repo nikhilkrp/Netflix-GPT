@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">🎬 Netflix GPT</h1>
   <p align="center">
-    A Netflix-inspired movie streaming platform powered by <b>GPT-based AI search</b>, built using React, Redux, Firebase, Tailwind CSS, and TMDB APIs.
+    A Netflix-inspired movie suggestion platform powered by <b>GPT-based AI search</b>, built using React, Redux, Firebase, Tailwind CSS, and TMDB APIs.
   </p>
 </p>
 
